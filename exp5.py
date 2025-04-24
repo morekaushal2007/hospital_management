@@ -7,3 +7,4 @@ def linear(a,target,n):
 a=[3,4,2,5,6,8,1]
 n=len(a)
 print(linear(a,8,n))
+print("suiii")
